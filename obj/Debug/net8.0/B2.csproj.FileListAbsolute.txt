@@ -1,0 +1,14 @@
+/Users/hoangthanh/OOP/OOP2025/B2/bin/Debug/net8.0/B2
+/Users/hoangthanh/OOP/OOP2025/B2/bin/Debug/net8.0/B2.deps.json
+/Users/hoangthanh/OOP/OOP2025/B2/bin/Debug/net8.0/B2.runtimeconfig.json
+/Users/hoangthanh/OOP/OOP2025/B2/bin/Debug/net8.0/B2.dll
+/Users/hoangthanh/OOP/OOP2025/B2/bin/Debug/net8.0/B2.pdb
+/Users/hoangthanh/OOP/OOP2025/B2/obj/Debug/net8.0/B2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoangthanh/OOP/OOP2025/B2/obj/Debug/net8.0/B2.AssemblyInfoInputs.cache
+/Users/hoangthanh/OOP/OOP2025/B2/obj/Debug/net8.0/B2.AssemblyInfo.cs
+/Users/hoangthanh/OOP/OOP2025/B2/obj/Debug/net8.0/B2.csproj.CoreCompileInputs.cache
+/Users/hoangthanh/OOP/OOP2025/B2/obj/Debug/net8.0/B2.dll
+/Users/hoangthanh/OOP/OOP2025/B2/obj/Debug/net8.0/refint/B2.dll
+/Users/hoangthanh/OOP/OOP2025/B2/obj/Debug/net8.0/B2.pdb
+/Users/hoangthanh/OOP/OOP2025/B2/obj/Debug/net8.0/B2.genruntimeconfig.cache
+/Users/hoangthanh/OOP/OOP2025/B2/obj/Debug/net8.0/ref/B2.dll
